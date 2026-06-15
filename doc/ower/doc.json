@@ -56,5 +56,6 @@
   { "account": "Curst", "id": "empty", "serverName": "tr2.vpnjantit.com", "username": "Curst-vpnjantit.com" },
   { "account": "Blight", "id": "empty", "serverName": "tr2.vpnjantit.com", "username": "Blight-vpnjantit.com" },
   { "account": "Xerner", "id": "empty", "serverName": "tr2.vpnjantit.com", "username": "Xerner-vpnjantit.com" },
-  { "account": "Zennox", "id": "empty", "serverName": "tr1.vpnjantit.com", "username": "Zennox-vpnjantit.com" }
+  { "account": "Zennox", "id": "empty", "serverName": "tr1.vpnjantit.com", "username": "Zennox-vpnjantit.com" },
+  { "account": "urcal", "id": "empty", "serverName": "tr1.vpnjantit.com", "username": "urcal-vpnjantit.com" }
 ]
