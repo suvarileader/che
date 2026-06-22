@@ -60,5 +60,6 @@
   { "account": "urcal", "id": "empty", "serverName": "tr1.vpnjantit.com", "username": "urcal-vpnjantit.com" },
   { "account": "Magiel", "id": "empty", "serverName": "tr1.vpnjantit.com", "username": "Magiel-vpnjantit.com" },
   { "account": "Cween", "id": "empty", "serverName": "empty", "username": "empty" },
+  { "account": "Yakie", "id": "empty", "serverName": "empty", "username": "empty" },
   { "account": "Whom", "id": "empty", "serverName": "empty", "username": "empty" }
 ]
